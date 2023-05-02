@@ -45,7 +45,7 @@
     "mocha": "^8.2.1",
     "nyc": "^15.1.0",
     "prettier": "^2.2.1",
-    "serverless": "^2.72.3",
+    "serverless": "^3.30.1",
     "serverless-dynamodb-local": "^0.2.39",
     "serverless-offline": "^6.8.0",
     "serverless-plugin-offline-dynamodb-stream": "^1.0.20",
